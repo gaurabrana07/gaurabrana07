@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Gaurab Rana</h1>
+<h1 align="center">Hi 👋, I'm Gaurab Rana</h1>
 <h3 align="center">
 🎓 Final-Year B.Tech CSE Student @ Graphic Era Hill University, Dehradun  
 🛠 Full-Stack Developer | Systems & Compiler Enthusiast (from OS kernels to full-stack platforms)
